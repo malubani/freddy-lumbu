@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DRC Tariff Finder",
+  "description": "An intelligent web application to easily search and consult the import and export duties and taxes for the Democratic Republic of Congo, based on the 2021 tariff schedule.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
